@@ -1,0 +1,14 @@
+C:\Users\OSBORNE\source\repos\Movement\Movement\bin\Debug\net8.0\Movement.exe
+C:\Users\OSBORNE\source\repos\Movement\Movement\bin\Debug\net8.0\Movement.deps.json
+C:\Users\OSBORNE\source\repos\Movement\Movement\bin\Debug\net8.0\Movement.runtimeconfig.json
+C:\Users\OSBORNE\source\repos\Movement\Movement\bin\Debug\net8.0\Movement.dll
+C:\Users\OSBORNE\source\repos\Movement\Movement\bin\Debug\net8.0\Movement.pdb
+C:\Users\OSBORNE\source\repos\Movement\Movement\obj\Debug\net8.0\Movement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OSBORNE\source\repos\Movement\Movement\obj\Debug\net8.0\Movement.AssemblyInfoInputs.cache
+C:\Users\OSBORNE\source\repos\Movement\Movement\obj\Debug\net8.0\Movement.AssemblyInfo.cs
+C:\Users\OSBORNE\source\repos\Movement\Movement\obj\Debug\net8.0\Movement.csproj.CoreCompileInputs.cache
+C:\Users\OSBORNE\source\repos\Movement\Movement\obj\Debug\net8.0\Movement.dll
+C:\Users\OSBORNE\source\repos\Movement\Movement\obj\Debug\net8.0\refint\Movement.dll
+C:\Users\OSBORNE\source\repos\Movement\Movement\obj\Debug\net8.0\Movement.pdb
+C:\Users\OSBORNE\source\repos\Movement\Movement\obj\Debug\net8.0\Movement.genruntimeconfig.cache
+C:\Users\OSBORNE\source\repos\Movement\Movement\obj\Debug\net8.0\ref\Movement.dll
