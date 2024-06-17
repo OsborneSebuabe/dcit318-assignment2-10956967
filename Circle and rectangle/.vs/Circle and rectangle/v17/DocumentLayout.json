@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\OSBORNE\\source\\repos\\Circle and rectangle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8A4338-88BE-4BDE-A74A-0F75ACB3F391}|Circle and rectangle\\Circle and rectangle.csproj|c:\\users\\osborne\\source\\repos\\circle and rectangle\\circle and rectangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A8A4338-88BE-4BDE-A74A-0F75ACB3F391}|Circle and rectangle\\Circle and rectangle.csproj|solutionrelative:circle and rectangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\OSBORNE\\source\\repos\\Circle and rectangle\\Circle and rectangle\\Program.cs",
+              "RelativeDocumentMoniker": "Circle and rectangle\\Program.cs",
+              "ToolTip": "C:\\Users\\OSBORNE\\source\\repos\\Circle and rectangle\\Circle and rectangle\\Program.cs",
+              "RelativeToolTip": "Circle and rectangle\\Program.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAcwD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T08:19:44.05Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

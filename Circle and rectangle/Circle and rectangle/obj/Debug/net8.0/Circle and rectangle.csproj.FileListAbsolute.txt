@@ -1,0 +1,14 @@
+C:\Users\OSBORNE\source\repos\Circle and rectangle\Circle and rectangle\bin\Debug\net8.0\Circle and rectangle.exe
+C:\Users\OSBORNE\source\repos\Circle and rectangle\Circle and rectangle\bin\Debug\net8.0\Circle and rectangle.deps.json
+C:\Users\OSBORNE\source\repos\Circle and rectangle\Circle and rectangle\bin\Debug\net8.0\Circle and rectangle.runtimeconfig.json
+C:\Users\OSBORNE\source\repos\Circle and rectangle\Circle and rectangle\bin\Debug\net8.0\Circle and rectangle.dll
+C:\Users\OSBORNE\source\repos\Circle and rectangle\Circle and rectangle\bin\Debug\net8.0\Circle and rectangle.pdb
+C:\Users\OSBORNE\source\repos\Circle and rectangle\Circle and rectangle\obj\Debug\net8.0\Circle and rectangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OSBORNE\source\repos\Circle and rectangle\Circle and rectangle\obj\Debug\net8.0\Circle and rectangle.AssemblyInfoInputs.cache
+C:\Users\OSBORNE\source\repos\Circle and rectangle\Circle and rectangle\obj\Debug\net8.0\Circle and rectangle.AssemblyInfo.cs
+C:\Users\OSBORNE\source\repos\Circle and rectangle\Circle and rectangle\obj\Debug\net8.0\Circle and rectangle.csproj.CoreCompileInputs.cache
+C:\Users\OSBORNE\source\repos\Circle and rectangle\Circle and rectangle\obj\Debug\net8.0\Circle and rectangle.dll
+C:\Users\OSBORNE\source\repos\Circle and rectangle\Circle and rectangle\obj\Debug\net8.0\refint\Circle and rectangle.dll
+C:\Users\OSBORNE\source\repos\Circle and rectangle\Circle and rectangle\obj\Debug\net8.0\Circle and rectangle.pdb
+C:\Users\OSBORNE\source\repos\Circle and rectangle\Circle and rectangle\obj\Debug\net8.0\Circle and rectangle.genruntimeconfig.cache
+C:\Users\OSBORNE\source\repos\Circle and rectangle\Circle and rectangle\obj\Debug\net8.0\ref\Circle and rectangle.dll
